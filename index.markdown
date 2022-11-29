@@ -22,6 +22,6 @@ Beyond using bilingualism as a tool to study numerical representations, I am als
 As a Speech and Language Pathologist, I am also interested in early literacy and questions such as: what makes books interesting for children, and how we can facilitate/bootstrap learning through literacy. Recently, as a personal project, I started to review picture books for children on the topic of numeracy/STEM and blog about how the content of the books is reflected in research and vice-versa. For more info, see the blog posts below. 
 <br><br>
 
-Finally, when I am not working on research or teaching, I like to bake goods using all types of different squashes. I am also an avid backpacker, a maple syrup enthusiast :canada: and Beaver Believer :beaver:. 
+Finally, when I am not working on research or teaching, I like to bake goods using all types of different squashes. I am also an avid backpacker, a maple syrup enthusiast :canada: and Beaver Believer. 
 </div>
 
