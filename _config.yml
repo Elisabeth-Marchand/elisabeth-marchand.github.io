@@ -21,8 +21,8 @@
 title: Elisabeth Marchand
 email: elisabethmarchand4@gmail.com
 domain: ""
-baseurl: "https://elisabethmarchand.github.io" # the subpath of your site, e.g. /blog
-url: "https://elisabethmarchand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "http://elisabethmarchand.github.io" # the subpath of your site, e.g. /blog
+url: "http://elisabethmarchand.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: elisab_marchand
 github_username:  Elisabeth-Marchand
 
