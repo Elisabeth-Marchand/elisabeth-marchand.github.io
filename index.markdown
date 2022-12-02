@@ -23,5 +23,6 @@ As a Speech and Language Pathologist, I am also interested in early literacy and
 <br><br>
 
 Finally, when I am not working on research or teaching, I like to bake goods using all types of different squashes. I am also an avid backpacker, a maple syrup enthusiast :canada: and Beaver Believer. 
+<br><br>
 </div>
 

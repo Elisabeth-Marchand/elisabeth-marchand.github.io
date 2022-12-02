@@ -9,13 +9,19 @@ title: "Review of STEM book: A Hundred Billion Trillion Stars"
 </p>
 
 <p>
-Author: Seth Fishman
+<strong>Author</strong>: Seth Fishman <br>
+<strong>Illustrator</strong>: Isabel Greenberg <br>
+<strong>Themes</strong>: large numbers, count list syntax, estimation <br> 
+<br> 
+<br>
+<br>
+<br>
+<br><br>
+<br>
 </p>
+<p align="justify"><strong>Overview</strong>: In construction...</p>
 
-<p>
-Illustrator: Isabel Greenberg
-</p>
+<p align="justify"><strong>Activity Ideas</strong>: In construction...</p>
 
-<p>
-In construction....
-</p>
+<p><strong>Related scientific literature (in number cognition)</strong>: coming up soon…</p>
+
